@@ -1,7 +1,6 @@
 
-//print hello world
 <?php
 
-echo "Hello World";
+echo ("Hello World \n");
 
 ?>
